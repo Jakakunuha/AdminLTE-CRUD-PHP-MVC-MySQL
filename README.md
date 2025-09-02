@@ -1,5 +1,5 @@
 # AdminLTE-CRUD-PHP-MVC-MySQL
- AdminLTE CRUD PHP MVC MySQL
+ Proses Pembuatan CRUD PHP MVC MySQL terintegrasi dengan Template Admin Lte
  
  **Dashboard**
 <img width="1920" height="890" alt="screencapture-localhost-App-AdminLTE4-dist-pages-index-php-2025-09-02-15_36_28" src="https://github.com/user-attachments/assets/fc076ecc-a7b6-43b7-b483-4ec3f9730df8" />
